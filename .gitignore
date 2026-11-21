@@ -2,6 +2,9 @@
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
 # Binaries for programs and plugins
+/share-stream
+/dist/
+/share-stream-linux-amd64.tar.gz
 *.exe
 *.exe~
 *.dll
